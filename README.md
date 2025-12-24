@@ -24,11 +24,6 @@ Para utilizar este projeto, siga os passos abaixo:
     cd classification-handsOnML
     ```
 
-3. Instale as dependências do projeto:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Como Usar
 
 1. Certifique-se de que todas as dependências foram instaladas corretamente.
